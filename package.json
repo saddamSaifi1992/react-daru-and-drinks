@@ -2,16 +2,25 @@
   "name": "thecocktail",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://saddamSaifi1992.github.io/react-daru-and-drinks",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "animate.css": "^3.7.2",
+    "axios": "^0.19.2",
     "react": "^16.13.0",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-animation": "^1.2.2",
     "react-dom": "^16.13.0",
+    "react-meta-tags": "^0.7.4",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -30,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }

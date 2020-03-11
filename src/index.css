@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.tags a {
+  color: #fbfbfb !important;
+  padding: 10px 18px;
+  border: 1px solid;
+  margin: 4px;
+  font-size: 20px;
+  font-weight: bolder;
+  display: inline-block;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.card{
+  cursor: pointer;
+}
+
+a.active {
+  background: #fff;
+  color: #000 !important;
+}
