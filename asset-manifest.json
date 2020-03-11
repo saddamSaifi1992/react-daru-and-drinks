@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-daru-and-drinks/static/css/main.53421bb5.chunk.css",
+    "main.js": "/react-daru-and-drinks/static/js/main.97f4ffa5.chunk.js",
+    "main.js.map": "/react-daru-and-drinks/static/js/main.97f4ffa5.chunk.js.map",
+    "runtime-main.js": "/react-daru-and-drinks/static/js/runtime-main.7196890a.js",
+    "runtime-main.js.map": "/react-daru-and-drinks/static/js/runtime-main.7196890a.js.map",
+    "static/css/2.d9ee7e2f.chunk.css": "/react-daru-and-drinks/static/css/2.d9ee7e2f.chunk.css",
+    "static/js/2.691839e3.chunk.js": "/react-daru-and-drinks/static/js/2.691839e3.chunk.js",
+    "static/js/2.691839e3.chunk.js.map": "/react-daru-and-drinks/static/js/2.691839e3.chunk.js.map",
+    "index.html": "/react-daru-and-drinks/index.html",
+    "precache-manifest.2febf8b2ddf8a4053e8d7c82cf3400ea.js": "/react-daru-and-drinks/precache-manifest.2febf8b2ddf8a4053e8d7c82cf3400ea.js",
+    "service-worker.js": "/react-daru-and-drinks/service-worker.js",
+    "static/css/2.d9ee7e2f.chunk.css.map": "/react-daru-and-drinks/static/css/2.d9ee7e2f.chunk.css.map",
+    "static/css/main.53421bb5.chunk.css.map": "/react-daru-and-drinks/static/css/main.53421bb5.chunk.css.map",
+    "static/js/2.691839e3.chunk.js.LICENSE.txt": "/react-daru-and-drinks/static/js/2.691839e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7196890a.js",
+    "static/css/2.d9ee7e2f.chunk.css",
+    "static/js/2.691839e3.chunk.js",
+    "static/css/main.53421bb5.chunk.css",
+    "static/js/main.97f4ffa5.chunk.js"
+  ]
+}
